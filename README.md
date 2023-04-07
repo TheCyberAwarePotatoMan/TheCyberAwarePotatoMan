@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @darren7125265
-- 👀 I’m interested in planes and simualtions
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on simulations
+- 👋 Hi, I’m TheCyberAwarePotatoMan
+- 👀 I’m interested in planes and Cybersecurity 
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me darrenlueders2@gmail.com
 
 <!---
